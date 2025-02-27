@@ -1,0 +1,2 @@
+Came across struggles in understanding how to use the terminal/command line in order to accomplish GitHub commands.
+Instead used GitHub Desktop to finish the lab due to previous experience and understanding.
